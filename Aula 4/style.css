@@ -1,0 +1,18 @@
+h1{color: red;}
+
+body{background-color: plum;}
+
+
+.primeiro{
+    color: rgb(255, 0, 111);
+    text-decoration: none; /* Remove o sublinhado */
+    font-weight: bold;
+}
+
+.segundo{color: rgb(34, 186, 7);
+    text-decoration: none; /* Remove o sublinhado */
+    font-weight: bold;}
+
+.terceiro{color: rgb(255, 115, 1);
+    text-decoration: none; /* Remove o sublinhado */
+    font-weight: bold;}
